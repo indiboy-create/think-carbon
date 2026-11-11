@@ -1,3 +1,8 @@
+## ThinkPHP-PanGu - 盘古ThinkPHP开源索引!
+面向 ThinkPHP 的开源工程索引：组件、框架、服务与发布工具，按能力组织，持续整理。
+仓库地址：**<https://github.com/indiboy-create/ThinkPHP-PanGu/>**
+在线站点：**<https://indiboy-create.github.io/ThinkPHP-PanGu/>**
+
 # youvision/think-carbon
 
 基于 [nesbot/carbon](https://github.com/briannesbitt/Carbon) 的 ThinkPHP 8 日期时间扩展，统一处理门面、助手函数、容器绑定、本地化语言与应用时区。
